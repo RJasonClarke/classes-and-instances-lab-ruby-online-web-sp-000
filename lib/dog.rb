@@ -1,3 +1,3 @@
 class Dog
-  dog = fido
+  name = fido
 end
