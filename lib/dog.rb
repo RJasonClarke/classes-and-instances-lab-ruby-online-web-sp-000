@@ -1,3 +1,2 @@
-class Dog
-  dog = barks
+class dog
 end
